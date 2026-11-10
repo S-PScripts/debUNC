@@ -44,6 +44,7 @@ also you can use these results in https://github.com/alyssagithub/debUNC/raw/mai
 | Bunni | 2.0 | **69%** | 11.37s | 152 | 37 | 1 | 28 |
 | Delta (Android, MuMu) | 1.0.745.1142 | **67%** | 80.7s | 148 | 24 | 6 | 40 |
 | Xeno | v1.3.65 | **28%** | 37.12s | 62 | 53 | 11 | 92 |
+| OpiumWare | TBA | **TBA** | TBAs | TBA | TBA | TBA | TBA |
 
 <details>
 <summary><b>Kawaii (Android, MuMu Player) details</b></summary>
@@ -589,4 +590,20 @@ also you can use these results in https://github.com/alyssagithub/debUNC/raw/mai
 - `writecustomasset`
 - `writefileasync`
 
+</details>
+<details>
+<summary><b>OpiumWare details</b></summary>
+
+**🔴 Failed**
+- `TBA`: read
+- `TBA`: read
+  
+**🟠 Skipped**
+- `TBA`: read
+- `TBA`: read
+  
+**🟡 Missing**
+- `TBA`: read
+- `TBA`: read
+  
 </details>
